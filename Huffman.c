@@ -148,6 +148,8 @@ int main()
     for (i = 0; i < 256; i++)
         if (hist[i] != 0)
             nodes += 1;
+    
+     // Code Change to the Master Branch to form a new branch - Team Member 1
 
     // Calculating minimum probability
     float p = 1.0, ptemp;
