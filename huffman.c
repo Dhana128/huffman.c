@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
+
 //huffman c file Code change to the master branch to form a new branch - Team Member 1
+
+//Code Changes to Master Branch Directly by Team Lead
+
 // function to calculate word length
 int codelen(char* code)
 {
